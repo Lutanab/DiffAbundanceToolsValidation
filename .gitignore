@@ -1,0 +1,12 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.snakemake/
+test/
+sandbox.Rmd
+results/
+DiffAbundanceToolsValidation.Rproj
+__pycache__/
+.ipynb_checkpoints/
+scripts/__pycache__/
